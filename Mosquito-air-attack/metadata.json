@@ -1,0 +1,6 @@
+{
+  "name": "Air Attack - Retro Anti-Air Defense",
+  "description": "Retro pixel-art anti-aircraft combat game. Defend the hills with your bazooka against waves of military copters, bombers, and fighter planes with supply airdrops and destructible terrain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Air Attack - Retro Anti-Air Defense",
+  "short_name": "AirAttack",
+  "description": "Endless retro pixel-art anti-aircraft defense combat game. Command rockets, allied tanks, SAM launchers and support drones in landscape warfare.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "categories": ["games", "action", "arcade"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
